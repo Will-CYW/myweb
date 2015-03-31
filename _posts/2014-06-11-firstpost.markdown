@@ -8,7 +8,7 @@ permalink: /test_post/
 ---
 
 Hello
-
+  <img src="/images/me.png" width="350" height="350" />
 <blockquote>
   <p>
     Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
