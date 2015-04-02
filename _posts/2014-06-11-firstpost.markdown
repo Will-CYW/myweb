@@ -70,14 +70,5 @@ summary:    质量是普通氢原子的两倍，氘对于全面了解早期宇�
 [图片说明]：银河系中星云所含的氘超出了天文学家曾经的预期，表明星际介质很大程度上可能来自银河系之外。版权：T.A. Rector/B.A. Wolpa/NOAO/AURA/NSF。
 
 天文学家自从在20世纪70年代初首次在星际介质中发现氘以来，他们一直在讨论了有多少氘已经被处理和破坏。几年前，天文学家还认的D/H在本地星际介质的值大约为15或16ppm。但美国宇航局的远紫外分光探测器（FUSE）的观测改变了这一切
-<blockquote>
-  <p>
-  <small>Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.</small>
-  </p>
- <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
-</blockquote>
 
-#### Where is it?
-
-Link [test](https://google.com) to open google~~
 
