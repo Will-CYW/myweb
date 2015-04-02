@@ -3,15 +3,5 @@ layout: page
 title: Photos
 permalink: /photos/
 ---
-<div class="page-content wc-container">
-  {% for post in site.posts %}
-  	{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
-  	{% if currentyear != year %}
-    	{% unless forloop.first %}</ul>{% endunless %}
-    		<h5>{{ currentyear }}</h5>
-    		<ul class="posts">
-    		{% capture year %}{{currentyear}}{% endcapture %} 
-  		{% endif %}
-    <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-{% endfor %}
-</div>
+
+![desk](https://farm4.staticflickr.com/3850/14680152963_9877b9b9fb_o.jpg)
