@@ -5,7 +5,7 @@ date:       2014-06-11 15:31:19
 summary:    No
 ---
 
-中文看看效果行不行 陈
+
 <blockquote>
   <p>
   <small>Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.</small>
