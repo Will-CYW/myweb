@@ -18,14 +18,15 @@ Iowan Old Style
 Futura
 Verdana 圆扁
 Optima 
+Garamond
 */
 
 body {
-  font-family: "Garamond", “微软雅黑”，"PT Serif", Georgia, "Athelas", serif;
+  font-family: "Optima", “微软雅黑”，"PT Serif", Georgia, "Athelas", serif;
 }
 
 html, body {
-  height: 90%;
+  height: 100%;
 }
 
 img {
@@ -48,7 +49,7 @@ img {
 }
 
 body {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 
           box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -57,7 +58,7 @@ body {
 
 .gist,
 .gist .highlight .p {
-  font-size: .75rem;
+  font-size: 0.75rem;
 }
 
 .gist .lines {
@@ -66,7 +67,7 @@ body {
 
 .site-header a {
   color: #333;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .site-header nav a {
@@ -183,8 +184,8 @@ table {
 
 .pagination,
 .button {
-  font-size: 1rem;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 0.8rem;
+  font-family: 'Optima','Lato', 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   text-align: center;
 }
@@ -247,7 +248,7 @@ table {
 }
 
 form {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Optima','Lato', 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   font-size: 1rem;
 }
@@ -314,8 +315,8 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
-  font-weight: 900;
+  font-family: 'Optima',"Lato", 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 500;
   line-height: 1.2;
   margin: 1em 0 0.5em;
 }
@@ -510,7 +511,7 @@ footer,
 footer .wrap {
   color: #7a7a7a;
   background-color: #fafafa;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Optima','Lato', 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   clear: both;
 }
